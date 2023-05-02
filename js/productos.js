@@ -114,7 +114,7 @@ const productos = [
   {
     id: 17,
     tipo: "Buzon",
-    nombre: "Bzon Matroska Nipon",
+    nombre: "Buzon Matroska Nipon",
     precio: 8000,
     foto: "./media/Buzones-Japon-17.jpg",
   },
