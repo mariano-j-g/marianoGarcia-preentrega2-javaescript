@@ -95,7 +95,7 @@ const productos = [
     tipo: "Buzon",
     nombre: "Biker Kung Fu Panda",
     precio: 1300,
-    foto: "./media/Buzones-japon-14.jpg",
+    foto: "./media/Buzones-Japon-14.jpg",
   },
   {
     id: 15,
