@@ -11,7 +11,7 @@ const productos = [
     tipo: "Buzon",
     nombre: "Buzon Buena Onda",
     precio: 1400,
-    foto: "./media/Buzones-japon-02.jpg",
+    foto: "./media/Buzones-Japon-02.jpg",
   },
   {
     id: 03,
